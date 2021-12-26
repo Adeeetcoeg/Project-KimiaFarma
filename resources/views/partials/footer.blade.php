@@ -2,7 +2,7 @@
 	<footer class="footer">
 		<!-- Footer Top -->
 		<div class="footer-top section">
-			<div class="container">
+			<div class="footer">
 				<div class="row">
 					<div class="col-lg-5 col-md-6 col-12">
 						<!-- Single Widget -->
@@ -10,8 +10,8 @@
 							<div class="logo">
 								<a href="index.html"><img src="img/logo.jpg" alt="#"></a>
 							</div>
-							<p class="text">Praesent dapibus, neque id cursus ucibus, tortor neque egestas augue,  magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</p>
-							<p class="call">Got Question? Call us 24/7<span><a href="tel:123456789">+0123 456 789</a></span></p>
+							<p class="text">INI ADALAH WEBSITE KIMIA FARMA </p>
+							<p class="call">Ada pertanyaan? Hubungi kami siap 24/7<span><a href="tel:+6282269962344">+6282269962344</a></span></p>
 						</div>
 						<!-- End Single Widget -->
 					</div>
@@ -50,10 +50,10 @@
 							<!-- Single Widget -->
 							<div class="contact">
 								<ul>
-									<li>NO. 342 - London Oxford Street.</li>
-									<li>012 United Kingdom.</li>
-									<li>info@eshop.com</li>
-									<li>+032 3456 7890</li>
+									<li>Jl.Tegal Ilat No 8</li>
+									<li>Soreang Bandung</li>
+									<li>coegpengencuan@gmail.com</li>
+									<li>+6282269962344</li>
 								</ul>
 							</div>
 							<!-- End Single Widget -->
@@ -71,7 +71,7 @@
 		</div>
 		<!-- End Footer Top -->
 		<div class="copyright">
-			<div class="container">
+			<div class="footer">
 				<div class="inner">
 					<div class="row">
 						<div class="col-lg-6 col-12">

@@ -18,25 +18,12 @@ Route::get('/', function () {
         "title" => "Home"
     ]);
 });
-Route::get('/mooo', function () {
-    return view('mooo', [
-        "title" => "moooS"
-    ]);
-});
-Route::get('/mooo1', function () {
-    return view('login.index', [
-        "title" => "login test"
-    ]);
-});
-Route::get('/mooo2', function () {
-    return view('login.register', [
-        "title" => "register test"
+Route::get('/checkout', function () {
+    return view('checkout', [
+        "title" => "checkout"
     ]);
 });
 
-Auth::routes();
-
-Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Auth::routes();
 
